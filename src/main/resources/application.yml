@@ -1,0 +1,9 @@
+office:
+  # 导出word用docx文件位置 (模版配置{.fieldName})
+  word-template-path-map:
+    word-name-1: "",
+    word-name-2: ""
+  # 导出excel用xlsx文件位置 (模版配置{{.fieldName}})
+  excel-template-path-map:
+    excel-name-1: "",
+    excel-name-2: ""
